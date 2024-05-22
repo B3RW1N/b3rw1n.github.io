@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Bio"
+    url: /Bio/
+  - title: "New Posts"
+    url: /recent/
+  - title: "By Category"
+    url: /categories/
+  - title: "By Tags"
+    url: /tags/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+
+  
