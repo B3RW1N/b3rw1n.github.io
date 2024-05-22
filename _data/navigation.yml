@@ -6,8 +6,8 @@ main:
     url: /recent/
   - title: "By Category"
     url: /categories/
-  - title: "By Tags"
-    url: /tags/
+ # - title: "By Tags"
+  #  url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
 
