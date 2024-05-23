@@ -3,7 +3,7 @@ main:
   - title: "Bio"
     url: /Bio/
   - title: "New Posts"
-    url: /recent/
+    url: /posts/
   - title: "By Category"
     url: /categories/
  # - title: "By Tags"
