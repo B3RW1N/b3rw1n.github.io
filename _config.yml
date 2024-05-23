@@ -292,3 +292,5 @@ defaults:
       comments: # true
       share: true
       related: true
+# Set Future Posts to true
+future: true
