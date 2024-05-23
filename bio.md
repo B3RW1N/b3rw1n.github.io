@@ -3,7 +3,7 @@ layout: single
 title: <ins> Kurz Bio - Thorsten Bertram </ins>
 permalink: /Bio/
 author_profile: true
-date: 2024-05-22 16:17
+date: 2024-05-23 07:49
 summary: Bio von Thorsten Bertram
 ---
 
