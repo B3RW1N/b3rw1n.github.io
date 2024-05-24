@@ -294,3 +294,17 @@ defaults:
       related: true
 # Set Future Posts to true
 future: true
+
+# Input for security.txt
+security_txt:
+  comment: "If you find any security issues on this site, please contact me!"
+  contact: "mailto:b3rw1n@mailbox.org"
+  expires: "2026-05-23T22:01:00.000Z"
+  #encryption:
+  preferred_languages: "de, en"
+  #acknowledgments:
+  #policy:
+  #hiring:
+  #csaf:
+  canonical: "https://b3rw1n.github.io/.well-known/security.txt"
+  #custom_message:
