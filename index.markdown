@@ -20,10 +20,10 @@ splash_news:
   - image_path: /assets/images/splash_idea_1.jpg
     alt: "Image idea"
     title: "doing Cyber-Security vs. being Cyber-Security"
-    excerpt: "We all know the difference between doing agile vs. being agile. Let's try to map this to **Cyber-Security**."
-    url: "#test-link"
+    excerpt: "Wir alle kennen die Unterscheide zwischen *doing agile vs. being agile*. Ich habe hier eine erste Version verfasst um dieses auf **Cyber-Security** zu übertragen."
+    url: "informationssicherheit/being-cyber-secure"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
 {% include feature_row id="intro" type="center" %}
-<!--{% include feature_row id="splash_news" type="left" %}-->
+{% include feature_row id="splash_news" type="left" %}
