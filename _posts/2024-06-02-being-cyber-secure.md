@@ -2,7 +2,7 @@
 layout: single
 title: doing cyber-security vs. being cyber-security
 author_profile: true
-date: 2024-06-02 15:47
+date: 2024-06-03 12:00
 summary: What are the differences between doing cyber-security and being cyber-security?
 categories: Informationssicherheit
 toc: true
@@ -131,3 +131,62 @@ Kulturveränderungen sollten nicht überstürzt werden, sondern schrittweise erf
 Regelmäßiges Feedback von Mitarbeitern sollte eingeholt und genutzt werden, um den Fortschritt zu überprüfen und die Strategie bei Bedarf anzupassen.
 
 **Es ist wichtig zu beachten, dass eine Kulturänderung Zeit braucht und mit Widerstand und Herausforderungen verbunden sein kann. Durch eine konsequente Umsetzung der oben genannten Schritte und ein kontinuierliches Engagement von allen Beteiligten kann jedoch eine erfolgreiche Veränderung der Unternehmenskultur erreicht werden. Nehmt eure Mitarbeitenden mit auf dieser Reise**
+
+# Sollte es eine technologische Unterstützung geben
+
+Ja, es ist in der Regel sehr hilfreich, technologische Unterstützung einzusetzen, um Unternehmensziele zu erreichen. Technologie kann Effizienz, Effektivität und Wettbewerbsfähigkeit erheblich verbessern.
+**ABER:** Es geht hierbei nicht um eine Tool Schlacht. Die Werkzeuge müssen geeignet sein, im Unternehmenskontext zu funktionieren.
+
+Die Entscheidung zwischen einem integrierten System, das alles kann, und einer "Best of Breed"-Software-Lösung, die über Schnittstellen angebunden ist, hängt von mehreren Faktoren ab, darunter die spezifischen Anforderungen und Ressourcen des Unternehmens, die vorhandene IT-Infrastruktur und die langfristigen strategischen Ziele. Hier sind einige Vor- und Nachteile beider Ansätze:
+
+## Integriertes System
+**Vorteile:**
+
+- **Nahtlose Integration:** Ein integriertes System bietet oft eine nahtlose Integration der verschiedenen Module, was zu weniger Kompatibilitätsproblemen führt.
+- **Einfache Verwaltung:** Ein einziges System kann einfacher zu verwalten und zu warten sein, da nur ein Anbieter und eine Plattform beteiligt sind.
+- **Konsistente Benutzeroberfläche:** Benutzer profitieren von einer einheitlichen Benutzererfahrung und konsistenten Benutzeroberflächen.
+- **Zentralisierte Daten:** Daten werden zentral gespeichert, was die Datensynchronisation erleichtert und die Datenqualität verbessert.
+
+**Nachteile:**
+
+- **Mögliche Funktionslücken:** Integrierte Systeme bieten möglicherweise nicht die besten Funktionen in allen Bereichen, was zu Kompromissen bei bestimmten Funktionalitäten führen kann.
+- **Abhängigkeit von einem Anbieter:** Eine Abhängigkeit von einem einzigen Anbieter kann Risiken bergen, insbesondere wenn es um Support und Weiterentwicklung geht.
+- **Höhere Kosten:** Integrierte Systeme können teurer sein, sowohl in Bezug auf Lizenzgebühren als auch auf Implementierung und Anpassung.
+
+## Best of Breed
+**Vorteile:**
+
+- **Spezialisierte Funktionen:** Best of Breed-Lösungen bieten oft spezialisierte Funktionen, die auf bestimmte Anforderungen und Branchenstandards zugeschnitten sind.
+- **Flexibilität:** Unternehmen können die besten Tools für jeden spezifischen Anwendungsbereich auswählen und so eine maßgeschneiderte Lösung zusammenstellen.
+- **Innovation:** Spezialisierte Anbieter sind oft innovativer und reagieren schneller auf Marktveränderungen und technologische Entwicklungen.
+- **Reduziertes Risiko:** Durch die Verteilung auf mehrere Anbieter wird das Risiko verringert, falls ein Anbieter Probleme hat oder ausfällt.
+
+**Nachteile:**
+
+- **Integrationserfordernisse:** Die Integration verschiedener Systeme kann komplex sein und erfordert möglicherweise zusätzliche Middleware oder Schnittstellen, was die Implementierung und Wartung erschwert.
+- **Konsistenzprobleme:** Unterschiedliche Benutzeroberflächen und Bedienkonzepte können die Benutzerakzeptanz beeinträchtigen und Schulungsaufwand erhöhen.
+- **Datenmanagement:** Das Management und die Synchronisation von Daten zwischen verschiedenen Systemen können Herausforderungen darstellen und zu Dateninkonsistenzen führen.
+
+## Empfehlungen
+**Analyse der Anforderungen:** 
+Bevor eine Entscheidung getroffen wird, sollte eine gründliche Analyse der spezifischen Anforderungen und Prioritäten des Unternehmens durchgeführt werden. Welche Funktionen sind kritisch? Welche Systeme müssen integriert werden?
+
+**Skalierbarkeit und Flexibilität:** 
+Überlege, wie flexibel und skalierbar die Lösung sein muss. Wird das Unternehmen wachsen oder sich verändern? Sind zukünftige Erweiterungen und Anpassungen zu erwarten?
+
+**IT-Ressourcen und Expertise:** 
+Berücksichtige die vorhandenen IT-Ressourcen und das technische Know-how. Hat das Unternehmen die nötigen Fähigkeiten, um komplexe Integrationen durchzuführen und zu verwalten? Wird externe Unterstützung benötigt, wenn ja, wie lange?
+
+**Budget:** 
+Berücksichtige die Gesamtbetriebskosten, einschließlich Lizenzkosten, Implementierung, Wartung, externe Unterstützung und zukünftige Upgrades.
+
+## Fazit
+Beide Ansätze haben ihre Vor- und Nachteile, und die beste Lösung hängt stark von den individuellen Bedürfnissen und Umständen des Unternehmens ab. Ein **hybrider Ansatz**, bei dem ein integriertes System für grundlegende Funktionen verwendet wird und spezialisierte Best of Breed-Lösungen für kritische Bereiche hinzugefügt werden, könnte auch eine Überlegung wert sein. Dies bietet eine Balance zwischen Integration und Spezialisierung.
+
+# History
+
+|Date       | Change           | special credit  |
+| ------------- |:-------------:| -----:|
+| 2024-06-02      | initial release |  |
+| 2024-06-03      |   Add Technologische Unterstützung    |    |
+|  |       |     |
